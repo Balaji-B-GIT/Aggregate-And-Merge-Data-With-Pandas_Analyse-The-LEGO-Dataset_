@@ -1,6 +1,6 @@
-# Aggregate-And-Merge-Data-With-Pandas_Analyse-The-LEGO-Dataset_
+# Aggregate-And-Merge-Data-With-Pandas_Analyse-The-LEGO-Dataset
 
-In this project, i've learned
+In this project, i've learned how to
 
 - use HTML Markdown in Notebooks, such as section headings # and how to embed images with the <img> tag.
 
